@@ -1,0 +1,2 @@
+APScheduler>=3.10.0
+mysql-connector-python>=8.3.0
